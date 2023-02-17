@@ -6,7 +6,7 @@ I'm Kavinda Rajapakse
   <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduYeshan&count_private=true&show_icons=true&count_private=true&custom_title=My%20Github%20Statistics&hide=stars,issues" />
 </a>
 <a href="https://github.com/PasinduYeshan">
-  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduYeshan&langs_count=9&layout=compact" />
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindasr&langs_count=9&layout=compact" />
 </a>
 
 <br />
