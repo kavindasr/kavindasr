@@ -19,4 +19,11 @@ I'm Kavinda Rajapakse
 - 📫 How to reach me: 
 <a href='https://www.linkedin.com/in/kavindasr/'>LinkedIn</a>
 
-#### Top Technologies
+
+#### Top Languages
+- Javascript
+- Java
+- C++
+- Python
+
+
