@@ -17,7 +17,8 @@ I'm Kavinda Rajapakse
 <!-- - 🌱 I’m currently learning Dart,Flutter
 - 👯 I’m looking to collaborate on Flutter projects -->
 - 📫 How to reach me: 
-<a href='https://www.linkedin.com/in/kavindasr/'>LinkedIn</a>
+<a href='https://www.linkedin.com/in/kavindasr/'>LinkedIn</a>  
+<a href="mailto:kavindasr@gmail.com">kavindasr@gmail.com</a>
 
 
 ## Top Languages
