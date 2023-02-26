@@ -32,12 +32,12 @@ I'm Kavinda Rajapakse
 ## Projects
 
 ### RideX 
-[Repo](https://github.com/rideXmora/ridexapi)
+[Repo](https://github.com/rideXmora/ridexapi)  
 A ride-hailing platform that is designed for organizations which are unable to afford a ride-hailing application.
 > Technologies - GCP compute engine | Sprint boot | Redis | MongoDB
 
 ### SpotKube (FYP)
-[Org](https://github.com/SpotKube)
+[Org](https://github.com/SpotKube)  
 SpotKube is an open-source software for cost optimization of microservices-based applications in a hybrid cloud environment using AWS Spot instances.
 > Technologies - Go | Kubernetes | Terraform | ansible
 
