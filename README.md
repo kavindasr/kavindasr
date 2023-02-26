@@ -26,8 +26,7 @@ I'm Kavinda Rajapakse
 - C++
 - Python
 
-## Check my Hackerrank account 
-[kavindasr](https://www.hackerrank.com/kavindasr)
+#### Check my Hackerrank account: [kavindasr](https://www.hackerrank.com/kavindasr)
 
 ## Projects
 
