@@ -20,10 +20,12 @@ I'm Kavinda Rajapakse
 <a href='https://www.linkedin.com/in/kavindasr/'>LinkedIn</a>
 
 
-#### Top Languages
+## Top Languages
 - Javascript
 - Java
 - C++
 - Python
 
+## Check my Hackerrank account 
+[kavindasr](https://www.hackerrank.com/kavindasr)
 
